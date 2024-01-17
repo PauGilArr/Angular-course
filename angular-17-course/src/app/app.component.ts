@@ -10,5 +10,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular-17-course';
+  name = 'curso Angular';
+  date = '2024-17-01';
+  number = 1;
 }
